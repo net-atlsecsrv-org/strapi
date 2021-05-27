@@ -17,7 +17,7 @@
     "boom": "^7.3.0",
     "chalk": "^2.4.1",
     "chokidar": "3.3.1",
-    "ci-info": "2.0.0",
+    "ci-info": "3.2.0",
     "cli-table3": "^0.6.0",
     "commander": "^2.20.0",
     "cross-spawn": "^6.0.5",
